@@ -31,7 +31,7 @@
                 <div class="col-md-7 col-md-offset-3">
                   <button type="submit" class="btn btn-primary btn-md">
                     <i class="fa fa-plus-circle"></i>
-                      Add New Student
+                      Edit
                   </button>
                   <button type="button" class="btn btn-danger btn-md"
                           data-toggle="modal" data-target="#modal-delete">
@@ -61,7 +61,7 @@
         </div>
         <div class="modal-body">
           <p class="lead">
-            <i class="fa fa-question-circle fa-lg"></i>  
+            <i class="fa fa-question-circle fa-lg"></i>
             Are you sure you want to delete this student?
           </p>
         </div>

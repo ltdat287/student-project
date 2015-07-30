@@ -7,11 +7,11 @@
       <table id="students-table" class="table table-striped table-bordered">
           <thread>
               <tr>
-                  <th class="hidden-sm">No</th>
+                  <th class="hidden-md">No</th>
                   <th class="hidden-md">Name</th>
                   <th class="hidden-md">Age</th>
                   <th class="hidden-md">Address</th>
-                  <th class="hidden-sm">Gender</th>
+                  <th class="hidden-md">Gender</th>
               </tr>
           </thread>
           <tbody>
